@@ -24,9 +24,10 @@ Built with *HTML, CSS, and JavaScript, the project focuses on **DOM manipulation
  
     ---
  ## 📷screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a51adab4-30e6-424e-ad1c-ecedf05eaa54" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/966ccb9b-0c1a-4828-a971-dcbbf156056e" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba2f69a6-a67e-4640-ab5c-38581d5fef8f" />
+<img width="676" height="348" alt="image" src="https://github.com/user-attachments/assets/7b16608f-8c13-4c53-abe4-fc8d4bdbcc5e" />
+<img width="606" height="789" alt="image" src="https://github.com/user-attachments/assets/9469207d-4f23-470e-b705-441fa00e081b" />
+<img width="611" height="584" alt="image" src="https://github.com/user-attachments/assets/625a4805-98d8-4ae7-8158-fd7dc6c4b90f" />
+<img width="603" height="796" alt="image" src="https://github.com/user-attachments/assets/e5f76b4c-d200-4d40-8663-60bffcac902a" />
 
 
 
